@@ -1,6 +1,4 @@
-# Knife
-
-# You have to fork or at least star this otherwise you are no longer allowed to use knives in anyway!
+# Knife | You have to fork or at least star this otherwise you are no longer allowed to use knives in anyway!
 
 <img src=https://raw.githubusercontent.com/ed0cinU/Knife/main/Damascus_Bowie_real.png></img>
 
